@@ -3,7 +3,7 @@ cd grand-financial-group
 
 git init
 git add .
-git commit -M "Initial commit: Grand Financial Group website"
+git commit
 
 # Replace with your GitHub username
 git remote add origin https://github.com/petrushm/grand-financial-group.git
